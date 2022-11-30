@@ -1,0 +1,12 @@
+.heading,
+.text {
+  text-align: center;
+}
+
+.heading {
+  color: purple;
+}
+
+.text {
+  color: orange;
+}

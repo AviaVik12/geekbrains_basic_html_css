@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.paragraph {
+  font-size: 16px;
+  line-height: 26px;
+  color: #1f3f68;
+}
+
+.h1 {
+  font-size: 64px;
+  color: #1f3f68;
+  width: 510px;
+}
+
+.paragraph-h1 {
+  width: 425px;
+}
+
+.h2-on-contacts {
+  font-weight: 500;
+  font-size: 44px;
+  text-align: center;
+}
+
+.h3 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.bottom__h3-heading_paragraph__index {
+  width: 495px;
+}
+
+.footer {
+  width: 340px;
+}
+
+.h4 {
+  font-size: 20px;
+  line-height: 30px;
+  color: #1f3f68;
+}
+
+.h4-heading_paragraph__index {
+  width: 359px;
+}
+
+.center {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  border: 1px solid #356ead;
+  box-sizing: border-box;
+  border-radius: 10px;
+  opacity: 0.4;
+}
+
+.button {
+  background: #5a98d0;
+  box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.yandex-map__contacts {
+  width: 100%;
+}
